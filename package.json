@@ -1,0 +1,22 @@
+{
+  "name": "tempo",
+  "version": "1.0.0",
+  "description": "Music Streaming App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jazsmith24/Tempo.git"
+  },
+  "author": "Jazmine Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jazsmith24/Tempo/issues"
+  },
+  "homepage": "https://github.com/Jazsmith24/Tempo#readme",
+  "dependencies": {
+    "create-next-app": "^12.0.10"
+  }
+}
